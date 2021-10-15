@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="logo2.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="ajhbot" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ajhbot" src="https://img.shields.io/badge/ajhbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/farhan-dqz"><img title="Author" src="logo2.jpg"></a>
